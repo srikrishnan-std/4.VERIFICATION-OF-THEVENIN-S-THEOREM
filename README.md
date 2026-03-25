@@ -89,5 +89,8 @@ MARK SPLIT UP:
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+
 RESULT:
+
 THUS THEVININS THEOREM IS VERIFIED PRACTICALLY AND THEORETICALLY.
